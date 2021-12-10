@@ -10,7 +10,7 @@
 
     <properties>
         <gridgo.version>0.7.0-SNAPSHOT</gridgo.version>
-        <log4j2.version>2.11.1</log4j2.version>
+        <log4j2.version>2.15.0</log4j2.version>
         <maven.compiler.source>11</maven.compiler.source>
         <maven.compiler.target>11</maven.compiler.target>
         <lombok.version>1.18.2</lombok.version>
